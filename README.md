@@ -18,6 +18,6 @@ DNA, or deoxyribonucleic acid, is the hereditary material in humans and almost a
 ## Count Vectorizer
 A method to convert text data into numerical data, essential for processing DNA sequences in machine learning models.
 ## Results
--**Accuracy, Precision, Recall, and F1 Score** were used to evaluate model performance.
--**Logistic Regression:** Accuracy = 0.926, Precision = 0.938, Recall = 0.8851, F1 Score = 0.927.
--**SVM Model:** Accuracy = 0.8851, Precision = 0.9154, Recall = 0.8851, F1 Score = 0.883.
+- **Accuracy, Precision, Recall, and F1 Score** were used to evaluate model performance.
+- **Logistic Regression:** Accuracy = 0.926, Precision = 0.938, Recall = 0.8851, F1 Score = 0.927.
+- **SVM Model:** Accuracy = 0.8851, Precision = 0.9154, Recall = 0.8851, F1 Score = 0.883.
